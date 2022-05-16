@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "name": "easy-bank-landing-page",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
